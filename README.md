@@ -12,5 +12,9 @@
 
 ### Installation
 ## Dependencies
-- Python (>= |PythonMinVersion|)
-- NumPy (>= |NumPyMinVersion|)
+- Python (>= 3.8)
+- NumPy (>= 1.17)
+
+
+## Project Motivation
+
