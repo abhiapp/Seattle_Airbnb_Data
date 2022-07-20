@@ -11,3 +11,6 @@
 - [Licensing, Authors, and Acknowledgements](#licensing)
 
 ### Installation
+## Dependencies
+- Python (>= |PythonMinVersion|)
+- NumPy (>= |NumPyMinVersion|)
